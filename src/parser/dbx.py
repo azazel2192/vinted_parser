@@ -4,7 +4,7 @@ import os
 local_dir = os.path.dirname(__file__)
 
 # set your dropbox token here
-token = 'sl.BTUsafv_4w-1KXkajmka_ahWuWfsBMrN4vMcSe-V8qCLBSVm5g-KWwKs-iS18ZNNKX-xoh1DpjisZzEmHwgQ02P3gjaLy5TuSYFZ0_AfmD6VbXwX9YRnM41CRFuym4ettueboMJo'
+token = ''
 
 
 class Dropbox:
